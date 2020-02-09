@@ -1,4 +1,4 @@
-The rainbow and the unicorn
+The rainbow and the unicorn and the pony
 
 Red 
 Purple 
@@ -12,6 +12,7 @@ Indigo
 Marron
 Yellow
 Unicorn
+Pony
 
 
 These are colors of my rainbow.
