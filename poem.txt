@@ -8,6 +8,7 @@ Pink
 Black
 Unicorn
 Blue
+Indigo
 Marron
 Yellow
 Unicorn
