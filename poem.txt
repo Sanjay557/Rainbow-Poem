@@ -20,6 +20,7 @@ Marron
 Yellow
 Unicorn
 Pony
+This is to inform
 
 
 These are colors of my rainbow.
